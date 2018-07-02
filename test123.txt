@@ -2,3 +2,5 @@ This is the first file
 
 
 this is some new text added on the server
+
+this is new text added locally
